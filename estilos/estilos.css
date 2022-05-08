@@ -1,0 +1,17 @@
+body{
+    background-image: url("/home/h4ck3r/Escritorio/Repos/Practicas-Web/imagenes.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-color: aqua;
+
+}
+
+#contenedor{
+    margin: 15em 20em;
+    position: absolute;
+    border-radius: 5px;
+    border-style: solid;
+    color: black;
+    padding: 10px;
+}
